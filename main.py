@@ -1,16 +1,7 @@
-l = ["Terrell", "Tharnid", "Babydoll"] # list []...
-t = ("Terrell", "Tharnid", "Babydoll") # tuple ()...can't modify
-s = {"Terrell", "Tharnid", "Babydoll"} # set {}...no duplicates..order does not stay the same
+# for loop
 
-# lists and tuples keep order
+# friends = ["Terrell", "Saldor", "Jenny", "Tharnid"]
 
-# print(l[0]) # subscript notation
-# l.append("Jenny")
-# print(l)
-# l.append("Jenny")
-# print(l)
-# l.remove("Jenny")
-# print(l)
+# for friend in friends:  # for friend in range(4)
+#   print(f"{friend} is my friend!!!")
 
-s.add("Jenny")
-print(s)
